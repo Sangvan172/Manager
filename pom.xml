@@ -7,7 +7,11 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
+<<<<<<< HEAD
    <name>CMManager</name>
+=======
+    <name>CMManager</name>
+>>>>>>> 73ef4b36460e303a6015639631cf315f59e3aa53
 
     <properties>
         <java.version>1.7</java.version>

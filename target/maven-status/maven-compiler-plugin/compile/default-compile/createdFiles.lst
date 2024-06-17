@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 dao\ManagerDAO.class
 controller\Logout.class
+=======
+controller\ListMenu.class
+dao\ManagerDAO.class
+>>>>>>> 73ef4b36460e303a6015639631cf315f59e3aa53
 dao\OrderDAO.class
 dao\BookDAO.class
 controller\Analytics.class

@@ -11,6 +11,10 @@ import java.sql.SQLException;
 /**
  *
  * @author Admin
+<<<<<<< HEAD
+=======
+ * 
+>>>>>>> 73ef4b36460e303a6015639631cf315f59e3aa53
  */
 public class DBContext {
 
@@ -18,9 +22,15 @@ public class DBContext {
 
     public DBContext() {
         try {
+<<<<<<< HEAD
             String url = "jdbc:sqlserver://TRONG\\PHUCTRONG:1433;databaseName=GR3;encrypt=false;trustServerCertificate=true;";
             String username = "sa";
             String password = "trong2203";
+=======
+            String url = "jdbc:sqlserver://DESKTOP-T24FS6O\\VANSANG:1433;databaseName=Pro_SWP;encrypt=false;trustServerCertificate=true;";
+            String username = "sa";
+            String password = "12345";
+>>>>>>> 73ef4b36460e303a6015639631cf315f59e3aa53
             Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
             connection = DriverManager.getConnection(url, username, password);
             System.out.println("ok");
