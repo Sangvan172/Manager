@@ -1,0 +1,15 @@
+controller\ListMenu.class
+dao\ManagerDAO.class
+dao\OrderDAO.class
+dao\BookDAO.class
+controller\Analytics.class
+dao\CustomerDAO.class
+dao\DBContext.class
+model\Order.class
+model\Manager.class
+controller\CustomerManagement.class
+controller\LoginController.class
+controller\ManagerProfile.class
+dao\ICRUD.class
+model\Book.class
+model\Customer.class
