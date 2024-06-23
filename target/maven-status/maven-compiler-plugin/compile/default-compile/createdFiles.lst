@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 dao\ManagerDAO.class
 dao\OrderDAO.class
 controller\BookDetails.class
@@ -13,12 +14,31 @@ dao\DBContext.class
 model\Order.class
 model\Manager.class
 controller\BlockCustomer.class
+=======
+<<<<<<< HEAD
+dao\ManagerDAO.class
+controller\Logout.class
+=======
+controller\ListMenu.class
+dao\ManagerDAO.class
+>>>>>>> 73ef4b36460e303a6015639631cf315f59e3aa53
+dao\OrderDAO.class
+dao\BookDAO.class
+controller\Analytics.class
+dao\CustomerDAO.class
+dao\DBContext.class
+model\Order.class
+model\Manager.class
+>>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
 controller\CustomerManagement.class
 controller\LoginController.class
 controller\ManagerProfile.class
 dao\ICRUD.class
 model\Book.class
+<<<<<<< HEAD
 controller\DeleteCustomer.class
 model\Employee.class
 dao\EmployeeDAO.class
+=======
+>>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
 model\Customer.class

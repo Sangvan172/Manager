@@ -1,9 +1,16 @@
+<<<<<<< HEAD
 <%-- 
     Document   : managerProfile
     Created on : Oct 19, 2023, 1:44:06 PM
     Author     : Admin
 --%>
 
+=======
+<<<<<<< HEAD
+
+=======
+>>>>>>> 73ef4b36460e303a6015639631cf315f59e3aa53
+>>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="en">

@@ -1,9 +1,17 @@
+<<<<<<< HEAD
 <%-- 
     Document   : analytics
     Created on : Oct 19, 2023, 10:56:13 AM
     Author     : Admin
 --%>
 
+=======
+<<<<<<< HEAD
+
+
+=======
+>>>>>>> 73ef4b36460e303a6015639631cf315f59e3aa53
+>>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>

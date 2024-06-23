@@ -8,7 +8,19 @@ import java.sql.Date;
 
 /**
  *
+<<<<<<< HEAD
  * @author Admin
+=======
+<<<<<<< HEAD
+ * @author Admin
+=======
+<<<<<<< HEAD
+ * @author Admin
+=======
+ * @author Admin 
+>>>>>>> origin/master
+>>>>>>> 73ef4b36460e303a6015639631cf315f59e3aa53
+>>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
  */
 public class Order {
 

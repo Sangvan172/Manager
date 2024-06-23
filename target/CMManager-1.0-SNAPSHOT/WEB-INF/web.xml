@@ -1,22 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <web-app version="3.1" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd">
     <servlet>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
         <servlet-name>AddBook</servlet-name>
         <servlet-class>controller.AddBook</servlet-class>
     </servlet>
     <servlet>
+<<<<<<< HEAD
+=======
+>>>>>>> 73ef4b36460e303a6015639631cf315f59e3aa53
+>>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
         <servlet-name>CreateAccount</servlet-name>
         <servlet-class>controller.CreateAccount</servlet-class>
     </servlet>
     <servlet>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
         <servlet-name>CustomerDetails</servlet-name>
         <servlet-class>controller.CustomerDetails</servlet-class>
     </servlet>
     <servlet>
+<<<<<<< HEAD
+=======
+>>>>>>> 73ef4b36460e303a6015639631cf315f59e3aa53
+>>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
         <servlet-name>CustomerManagement</servlet-name>
         <servlet-class>controller.CustomerManagement</servlet-class>
     </servlet>
     <servlet>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
         <servlet-name>EmployeeDetail</servlet-name>
         <servlet-class>controller.EmployeeDetail</servlet-class>
     </servlet>
@@ -33,10 +56,19 @@
         <servlet-class>controller.ListMenu</servlet-class>
     </servlet>
     <servlet>
+<<<<<<< HEAD
+=======
+>>>>>>> 73ef4b36460e303a6015639631cf315f59e3aa53
+>>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
         <servlet-name>ManagerProfile</servlet-name>
         <servlet-class>controller.ManagerProfile</servlet-class>
     </servlet>
     <servlet>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
         <servlet-name>OrderDetails</servlet-name>
         <servlet-class>controller.OrderDetails</servlet-class>
     </servlet>
@@ -49,6 +81,10 @@
         <servlet-class>controller.UpdateBook</servlet-class>
     </servlet>
     <servlet>
+<<<<<<< HEAD
+=======
+>>>>>>> 73ef4b36460e303a6015639631cf315f59e3aa53
+>>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
         <servlet-name>Analytics</servlet-name>
         <servlet-class>controller.Analytics</servlet-class>
     </servlet>
@@ -57,6 +93,11 @@
         <servlet-class>controller.DeleteCustomer</servlet-class>
     </servlet>
     <servlet>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
         <servlet-name>BlockCustomer</servlet-name>
         <servlet-class>controller.BlockCustomer</servlet-class>
     </servlet>
@@ -65,34 +106,70 @@
         <servlet-class>controller.DeleteEmployee</servlet-class>
     </servlet>
     <servlet>
+<<<<<<< HEAD
+=======
+>>>>>>> 73ef4b36460e303a6015639631cf315f59e3aa53
+>>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
         <servlet-name>LoginController</servlet-name>
         <servlet-class>controller.LoginController</servlet-class>
     </servlet>
     <servlet>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
         <servlet-name>DeleteBook</servlet-name>
         <servlet-class>controller.DeleteBook</servlet-class>
     </servlet>
     <servlet>
+<<<<<<< HEAD
+=======
+>>>>>>> 73ef4b36460e303a6015639631cf315f59e3aa53
+>>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
         <servlet-name>Logout</servlet-name>
         <servlet-class>controller.Logout</servlet-class>
     </servlet>
     <servlet-mapping>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
         <servlet-name>AddBook</servlet-name>
         <url-pattern>/addBook</url-pattern>
     </servlet-mapping>
     <servlet-mapping>
+<<<<<<< HEAD
+=======
+>>>>>>> 73ef4b36460e303a6015639631cf315f59e3aa53
+>>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
         <servlet-name>CreateAccount</servlet-name>
         <url-pattern>/createAccount</url-pattern>
     </servlet-mapping>
     <servlet-mapping>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
         <servlet-name>CustomerDetails</servlet-name>
         <url-pattern>/customerDetails</url-pattern>
     </servlet-mapping>
     <servlet-mapping>
+<<<<<<< HEAD
+=======
+>>>>>>> 73ef4b36460e303a6015639631cf315f59e3aa53
+>>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
         <servlet-name>CustomerManagement</servlet-name>
         <url-pattern>/customerManagement</url-pattern>
     </servlet-mapping>
     <servlet-mapping>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
         <servlet-name>EmployeeDetail</servlet-name>
         <url-pattern>/employeeDetail</url-pattern>
     </servlet-mapping>
@@ -109,10 +186,19 @@
         <url-pattern>/listMenu</url-pattern>
     </servlet-mapping>
     <servlet-mapping>
+<<<<<<< HEAD
+=======
+>>>>>>> 73ef4b36460e303a6015639631cf315f59e3aa53
+>>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
         <servlet-name>ManagerProfile</servlet-name>
         <url-pattern>/managerProfile</url-pattern>
     </servlet-mapping>
     <servlet-mapping>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
         <servlet-name>OrderDetails</servlet-name>
         <url-pattern>/orderDetails</url-pattern>
     </servlet-mapping>
@@ -125,6 +211,10 @@
         <url-pattern>/updateBook</url-pattern>
     </servlet-mapping>
     <servlet-mapping>
+<<<<<<< HEAD
+=======
+>>>>>>> 73ef4b36460e303a6015639631cf315f59e3aa53
+>>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
         <servlet-name>Analytics</servlet-name>
         <url-pattern>/analytics</url-pattern>
     </servlet-mapping>
@@ -133,6 +223,11 @@
         <url-pattern>/deleteCustomer</url-pattern>
     </servlet-mapping>
     <servlet-mapping>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
         <servlet-name>BlockCustomer</servlet-name>
         <url-pattern>/blockCustomer</url-pattern>
     </servlet-mapping>
@@ -141,14 +236,27 @@
         <url-pattern>/deleteEmployee</url-pattern>
     </servlet-mapping>
     <servlet-mapping>
+<<<<<<< HEAD
+=======
+>>>>>>> 73ef4b36460e303a6015639631cf315f59e3aa53
+>>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
         <servlet-name>LoginController</servlet-name>
         <url-pattern>/login</url-pattern>
     </servlet-mapping>
     <servlet-mapping>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
         <servlet-name>DeleteBook</servlet-name>
         <url-pattern>/deleteBook</url-pattern>
     </servlet-mapping>
     <servlet-mapping>
+<<<<<<< HEAD
+=======
+>>>>>>> 73ef4b36460e303a6015639631cf315f59e3aa53
+>>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
         <servlet-name>Logout</servlet-name>
         <url-pattern>/logout</url-pattern>
     </servlet-mapping>
