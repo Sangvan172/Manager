@@ -1,9 +1,30 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
+=======
+>>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
+>>>>>>> d5c93c1c8a716a539e38019ab7b49de11d52c3c1
 <%-- 
     Document   : bookDetail
     Created on : Oct 19, 2023, 1:44:40 PM
     Author     : Admin
 --%>
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
+=======
+>>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
+=======
+>>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
+>>>>>>> d5c93c1c8a716a539e38019ab7b49de11d52c3c1
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@ taglib prefix="fn" uri="http://java.sun.com/jsp/jstl/functions" %>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
