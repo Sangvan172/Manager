@@ -1,0 +1,58 @@
+<<<<<<< HEAD
+dao\ManagerDAO.class
+dao\OrderDAO.class
+controller\BookDetails.class
+model\OrderDetail.class
+dao\BookDAO.class
+controller\Analytics.class
+controller\OrderDetails.class
+dao\CustomerDAO.class
+dao\OrderDetailDAO.class
+controller\OrderManagement.class
+controller\CustomerDetails.class
+dao\DBContext.class
+model\Order.class
+model\Manager.class
+controller\BlockCustomer.class
+=======
+<<<<<<< HEAD
+dao\ManagerDAO.class
+controller\Logout.class
+=======
+controller\ListMenu.class
+dao\ManagerDAO.class
+>>>>>>> 73ef4b36460e303a6015639631cf315f59e3aa53
+dao\OrderDAO.class
+<<<<<<< HEAD
+controller\BookDetails.class
+dao\BookDAO.class
+controller\Analytics.class
+dao\CustomerDAO.class
+dao\CategoryDAO.class
+controller\UpdateBook.class
+controller\AddBook.class
+=======
+dao\BookDAO.class
+controller\Analytics.class
+dao\CustomerDAO.class
+>>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
+dao\DBContext.class
+model\Order.class
+model\Manager.class
+>>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
+controller\CustomerManagement.class
+controller\LoginController.class
+controller\ManagerProfile.class
+dao\ICRUD.class
+<<<<<<< HEAD
+model\Category.class
+=======
+>>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
+model\Book.class
+<<<<<<< HEAD
+controller\DeleteCustomer.class
+model\Employee.class
+dao\EmployeeDAO.class
+=======
+>>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
+model\Customer.class
