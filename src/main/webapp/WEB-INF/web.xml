@@ -2,8 +2,11 @@
 <web-app version="3.1" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
+=======
+>>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
 =======
 >>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
     <servlet>
@@ -24,6 +27,9 @@
         <servlet-class>controller.CreateAccount</servlet-class>
     </servlet>
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
+=======
 >>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
 =======
 >>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
@@ -51,7 +57,10 @@
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
 =======
 >>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
 >>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
@@ -64,6 +73,9 @@
     </servlet>
     <servlet>
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
+=======
 >>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
 =======
 >>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
@@ -98,7 +110,10 @@
     <servlet>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
 =======
 >>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
         <servlet-name>UpdateBook</servlet-name>
@@ -110,6 +125,9 @@
 >>>>>>> 73ef4b36460e303a6015639631cf315f59e3aa53
 >>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
+=======
 >>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
 =======
 >>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
@@ -119,7 +137,10 @@
     <servlet>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
 =======
 >>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
         <servlet-name>DeleteCustomer</servlet-name>
@@ -144,6 +165,9 @@
 >>>>>>> 73ef4b36460e303a6015639631cf315f59e3aa53
 >>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
+=======
 >>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
 =======
 >>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
@@ -157,7 +181,10 @@
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
 =======
 >>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
 >>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
@@ -170,6 +197,9 @@
 >>>>>>> 73ef4b36460e303a6015639631cf315f59e3aa53
 >>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
+=======
 >>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
 =======
 >>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
@@ -183,7 +213,10 @@
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
 =======
 >>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
 >>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
@@ -205,6 +238,9 @@
 =======
 >>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
+=======
 >>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
 =======
 >>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
@@ -221,8 +257,11 @@
     </servlet-mapping>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
+=======
+>>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
 =======
 >>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
     <servlet-mapping>
@@ -239,6 +278,9 @@
         <url-pattern>/employeeManagement</url-pattern>
     </servlet-mapping>
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
+=======
 >>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
 =======
 >>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
@@ -272,12 +314,18 @@
         <url-pattern>/orderManagement</url-pattern>
     </servlet-mapping>
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
+=======
+>>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
     <servlet-mapping>
         <servlet-name>UpdateBook</servlet-name>
         <url-pattern>/updateBook</url-pattern>
     </servlet-mapping>
+<<<<<<< HEAD
+>>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
+=======
 >>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
     <servlet-mapping>
 <<<<<<< HEAD
@@ -290,7 +338,10 @@
     <servlet-mapping>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
 =======
 >>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
         <servlet-name>DeleteCustomer</servlet-name>
@@ -315,6 +366,9 @@
 >>>>>>> 73ef4b36460e303a6015639631cf315f59e3aa53
 >>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
+=======
 >>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
 =======
 >>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
@@ -324,10 +378,13 @@
     <servlet-mapping>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         <servlet-name>AddBook</servlet-name>
         <url-pattern>/addBook</url-pattern>
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
 =======
 >>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
 =======
@@ -336,6 +393,7 @@
 >>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
         <servlet-name>DeleteBook</servlet-name>
         <url-pattern>/deleteBook</url-pattern>
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
     </servlet-mapping>
@@ -359,11 +417,19 @@
 <<<<<<< HEAD
 >>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
 =======
+    </servlet-mapping>
+    <servlet-mapping>
+<<<<<<< HEAD
+>>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
+=======
 >>>>>>> 73ef4b36460e303a6015639631cf315f59e3aa53
 >>>>>>> 821f1c2d40e1440dd995f1571769d5266ba22ca3
         <servlet-name>Logout</servlet-name>
         <url-pattern>/logout</url-pattern>
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
+=======
 >>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
 =======
 >>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf

@@ -24,6 +24,7 @@ dao\ManagerDAO.class
 >>>>>>> 73ef4b36460e303a6015639631cf315f59e3aa53
 dao\OrderDAO.class
 <<<<<<< HEAD
+<<<<<<< HEAD
 controller\BookDetails.class
 dao\BookDAO.class
 controller\Analytics.class
@@ -31,6 +32,11 @@ dao\CustomerDAO.class
 dao\CategoryDAO.class
 controller\UpdateBook.class
 controller\AddBook.class
+=======
+dao\BookDAO.class
+controller\Analytics.class
+dao\CustomerDAO.class
+>>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
 =======
 dao\BookDAO.class
 controller\Analytics.class
@@ -45,7 +51,10 @@ controller\LoginController.class
 controller\ManagerProfile.class
 dao\ICRUD.class
 <<<<<<< HEAD
+<<<<<<< HEAD
 model\Category.class
+=======
+>>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
 =======
 >>>>>>> a29c21bccac48adc79805b90f9c2800e126406cf
 model\Book.class
